@@ -76,7 +76,7 @@
     "formation": {
         "worker": {
             "quantity": 1,
-            "eco": "free"
+            "size": "eco"
         }
     }
 }

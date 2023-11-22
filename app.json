@@ -1,6 +1,6 @@
 {
-    "name": "LazyPrincessV2",
-    "description": "LazyPrincess with Url Shortner",
+    "name": "Oʀᴇᴡᴀ Eʀᴇɴ",
+    "description": "Oʀᴇᴡᴀ Eʀᴇɴ with Url Shortner",
     "stack": "container",
     "logo": "https://telegra.ph/file/68d28011b2bc356b5db01.png",
     "keywords": [
@@ -16,8 +16,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/LazyDeveloperr",
-    "repository": "https://github.com/LazyDeveloperr/LazyPrincessV2",
+    "website": "https://t.me/TEAM_GODz",
+    "channel": "https://t.me/TEAM_GODz",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
